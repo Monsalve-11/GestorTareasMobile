@@ -18,4 +18,6 @@ luego de instalar todas las dependencias ejecutar la siguiente linea
 
 npx expo start 
 
-debera elegir "a" para movil si desea ejecutar en IOS debera escanear con la camara y lo enviara a la app expo go
+debera elegir "a" para movil si desea ejecutar en IOS debera escanear con la camara y lo enviara a la app expo go  
+
+al correr el proyecto desde movil deben estar conectados a la misma red wifi 
